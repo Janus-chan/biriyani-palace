@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+body {
+  background: rgb(236, 221, 136);
+  color: rgba(31, 40, 150, 0.5);
+}
+
+body h1 {
+  color: rgb(222, 40, 2);
+  font-size: 52px;
+  font-family: 'Bangers', cursive;
+  text-shadow: 1px 1px 3px #141313;
+  margin-bottom: -7px
+}
+
+h3 {
+  color: rgb(2, 134, 211)
+}
+
+h4 {
+  color: #093058;
+}
+
+#subtext {
+  color: #5f0a04;
+}
+
+#subhead {
+  font-size: 50px;
+  font-weight: bolder;
+  color: #ff3c00;
+  text-shadow: 1px 1px 3px #3e3836;
+  border-bottom: 2px solid #a4310b;
+  width: 500%;
+  margin-left: -7px;
+  background-color: rgba(235, 249, 5, 0.5);
+  margin-top: -9px;
+  padding: 3px 0px 3px 6px;
+  position: fixed;
+}
+
+h2 {
+  font-family: fantasy;
+  font-size: 30px;
+  color: #864510
+}
+
+section {
+  width: 1340px;
+  display: table;
+}
+
+section img {
+  width: 410px;
+  margin: 15px;
+  padding: 0px;
+  box-shadow: 1px 2px 3px #21201d;
+}
+
+body {
+  background-color: #f2ffc0;
+}
+
+.l-input {
+  border-radius: 20px;
+  background-color: #e5ffd4;
+  font-weight: bolder;
+  width: 350px;
+  height: 32px;
+}
+
+.l-input:focus {
+  background-color: #c2ff9a;
+}
+
+.sl-input {
+  background-color: #b5f4dd;
+  border-radius: 6px;
+  color: #0c582a;
+  font-weight: bolder;
+  height: 34px;
+  border-color: #000;
+}
+
+.sl-input:focus {
+  background-color: #84ffb5;
+}
+
+.puts {
+  background-color: rgba(238, 197, 137, 0.5);
+  border-radius: 20px 20 20px;
+  width: 200px;
+  height: 31px;
+  font-size: 14px;
+}
+
+.kl-input {
+  font-size: 40px;
+}
+
+.buttonmod {
+  padding: 10px 30px 10px 30px;
+  background-color: #fc9153;
+  display: table;
+  margin-top: 20px;
+  border-radius: 10px;
+  outline: none;
+  box-shadow: 3px 3px 3px #000;
+}
+
+.buttonmod:hover {
+  background-color: #fdbe83;
+  box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+    inset 2px 2px 3px rgba(0, 0, 0, .6);
+
+}
+
+a {
+  text-decoration-line: none;
+  color: #321fc2;
+}
+
+a:hover {
+  color: #05a988;
+}
+
+#subody {
+  padding-top: 35px;
+  margin-left: 100px;
+  max-width: 1000px;
+}
+
+.endsub {
+  padding: 10px;
+  font-style: oblique;
+  font-size: 30px;
+  margin-left: 510px;
+  border-radius: 6px;
+  box-shadow: 2px 2px 4px #757c78;
+  background-color: #0a7edc;
+  color: #e7fffd;
+  text-shadow: 1px 1px 2px #000;
+}
+#end{
+
+  margin-left:  260px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
